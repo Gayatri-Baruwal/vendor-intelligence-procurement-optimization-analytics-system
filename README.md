@@ -73,8 +73,7 @@ Vendor Intelligence & Procurement Optimization Analytics System/
 │   └── Vendor_Performance_PyEDA.py
 │
 ├── SQLite_EDA/
-│   ├── SQL_Vendor_Performance.ipynb
-│   └── inventory.db
+│   └── SQL_Vendor_Performance.ipynb
 │
 └── README.md
 ```
